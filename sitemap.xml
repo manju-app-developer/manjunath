@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Portfolio main site -->
+  <url>
+    <loc>https://manjunath-g.netlify.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Vigyanverse -->
+  <url>
+    <loc>https://vigyanverse.netlify.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Taskzyee -->
+  <url>
+    <loc>https://taskzyee.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MetroMapLive -->
+  <url>
+    <loc>https://metromaplive.netlify.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- AI Video Generator -->
+  <url>
+    <loc>https://aivideogeneratorapp.netlify.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Nutrients Scan -->
+  <url>
+    <loc>https://nutrients-scan.netlify.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
