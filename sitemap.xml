@@ -1,42 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- Portfolio main site -->
   <url>
     <loc>https://manjunath-g.netlify.app/</loc>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    
+    <image:image>
+      <image:loc>https://ik.imagekit.io/manjumindverse/images/manju-s-g.png</image:loc>
+      <image:title>Manjunath G - Profile Picture</image:title>
+      <image:caption>Manjunath G, an engineer specializing in AI, sustainable energy, and space exploration.</image:caption>
+    </image:image>
   </url>
 
-  <!-- Vigyanverse -->
   <url>
     <loc>https://vigyanverse.netlify.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Taskzyee -->
   <url>
     <loc>https://taskzyee.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- MetroMapLive -->
   <url>
     <loc>https://metromaplive.netlify.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- AI Video Generator -->
   <url>
     <loc>https://aivideogeneratorapp.netlify.app/</loc>
-    <changefreq>weekly</changefreq>
+    <changefreq>weekly</chfreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Nutrients Scan -->
   <url>
     <loc>https://nutrients-scan.netlify.app/</loc>
     <changefreq>weekly</changefreq>
